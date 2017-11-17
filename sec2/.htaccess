@@ -1,4 +1,0 @@
-AuthType basic
-AuthName "Only by invitation"
-AuthUserFile /user/mathew99/web/sec2/.htpasswd
-Require valid-user
